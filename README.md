@@ -1,5 +1,4 @@
-## Hi there 👋
-Olá! Eu sou o Byron Doria 🖐️
+## Olá! Eu sou o Byron Doria 🖐️
 
 <!--
 **97358/97358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
