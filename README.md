@@ -6,20 +6,10 @@
 ## Tecnologias que eu uso no meu dia 🖐️
 
 <div style="display: inline_block"><br>
-
-<div data-tooltip="We are Pennstate!">
-
   <img title="javascript" align="center" alt="By-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-</div>
-
-  
-
   <img title="html" align="center" alt="By-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="css" align="center" alt="By-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="csharp" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img title=".net" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png">
   <img title="git" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png">
 </div>
-
-
