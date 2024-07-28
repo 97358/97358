@@ -10,7 +10,7 @@
   <img title="html" align="center" alt="By-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="css" align="center" alt="By-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="csharp" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img title="dot-net" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png">
+  <img title=".net" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png">
   <img title="git" align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png">
 </div>
 
