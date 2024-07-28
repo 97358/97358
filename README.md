@@ -13,4 +13,5 @@
   <img align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png">
   <img align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="By-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
+  <img align="center" alt="By-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/angularjs.png">  
 </div>
